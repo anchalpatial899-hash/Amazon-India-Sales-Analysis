@@ -20,6 +20,6 @@ Explores product, category, state, and other performance insights.
 ## Files
 - Amazon_India_Sales_Dashboard.pbix
 - Dashboard_Overview.png
-- Dashboard_Detailed_Analysis.png
+- Dashboard_Customer&Product_Analysis.png
 
 Open the PBIX file using Power BI Desktop to explore the interactive dashboard.
